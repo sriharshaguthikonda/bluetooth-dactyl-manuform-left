@@ -1,3 +1,12 @@
+
+
+
+
+https://dactyl.mbugert.de/manuform
+
+https://miconv.com/convert-scad-to-stl/
+
+
 # Custom, Cherry profile, Bluetooth, Dactyl Manuform Keyboard
 
 ![Beauty Shot](images/P1090436.jpg)
